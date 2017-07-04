@@ -14,4 +14,6 @@ public String index() {
 	return "Greetings from Spring Boot!\n";
 }
 
+
 }
+
